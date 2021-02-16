@@ -9,11 +9,7 @@ seo:
   title: TEst
   description: ''
   robots: []
-  extra:
-    - name: 'og:title'
-      value: TEst1
-      keyName: property
-      relativeUrl: true
+  extra: []
   type: stackbit_page_meta
 template: post
 ---
