@@ -6,7 +6,7 @@ tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
-  title: ''
+  title: TEst
   description: ''
   robots: []
   extra: []
