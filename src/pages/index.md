@@ -104,5 +104,9 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
+    - name: 'og:title'
+      value: Stackbit Starter Theme!321
+      keyName: property
+      relativeUrl: true
 template: advanced
 ---
