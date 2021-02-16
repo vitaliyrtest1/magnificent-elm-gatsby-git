@@ -95,7 +95,7 @@ seo:
       value: The preview of the Starter theme
       keyName: property
     - name: 'og:image'
-      value: /images/parallel-goose.png
+      value: /images/2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
