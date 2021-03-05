@@ -13,6 +13,12 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     align: left
     image: images/successful-steel.png
     image_alt: Hero placeholder image
