@@ -31,7 +31,8 @@ sections:
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.![](/images/3.png)
+          fringilla,
+          fringilla.![](/images/3.png)![](https://media-exp1.licdn.com/dms/image/C4E0BAQGb5EHpeLxVBw/company-logo\_200\_200/0/1597845980968?e=2159024400\&v=beta\&t=wAp9Xtv7MOQAsWnVkYmabFe2GHfVkXIKdfQ92IebRHE)![](/images/nervous-sunflower.png)
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
